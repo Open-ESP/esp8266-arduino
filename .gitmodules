@@ -22,3 +22,9 @@
 [submodule "tools/sdk/uzlib"]
 	path = tools/sdk/uzlib
 	url = https://github.com/earlephilhower/uzlib.git
+[submodule "libraries/ESPAsyncTCP"]
+	path = libraries/ESPAsyncTCP
+	url = https://github.com/me-no-dev/ESPAsyncTCP
+[submodule "libraries/ESPAsyncWebServer"]
+	path = libraries/ESPAsyncWebServer
+	url = https://github.com/me-no-dev/ESPAsyncWebServer

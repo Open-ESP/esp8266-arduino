@@ -28,3 +28,6 @@
 [submodule "libraries/ESPAsyncWebServer"]
 	path = libraries/ESPAsyncWebServer
 	url = https://github.com/me-no-dev/ESPAsyncWebServer
+[submodule "libraries/Adafruit_TinyUSB_Arduino"]
+	path = libraries/Adafruit_TinyUSB_Arduino
+	url = https://github.com/adafruit/Adafruit_TinyUSB_Arduino
